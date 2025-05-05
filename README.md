@@ -6,7 +6,7 @@ _website design project_
 
 More practice in creating designs.
 
-Site published at: https://aura-lem.github.io/original-design/
+Site published at: https://aura-lem.github.io/disney/
 
 Design: ![alt text](./original-design.webp)
 
@@ -43,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Aura-Lem/original-design.git
+    git clone https://github.com/Aura-Lem/disney.git
     ```
 2. Install NPM packages
     ```sh
